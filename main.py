@@ -41,7 +41,7 @@ while True:
                 todos = file.readlines()
             todos_to_remove = todos[number - 1].strip('\n')
 
-            print(f"Todo {todos_to_remove} was removed from the list")
+            print(f"Todo {todos_to_remove} was removed from the list.")
             todos.pop(number-1)
             with open('todos.txt', 'w') as file:
                 file.writelines(todos)

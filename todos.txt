@@ -1,8 +1,5 @@
 wash
 show
 edit
-shop
-cook
-eat
-new todo
 clean
+code

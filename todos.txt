@@ -3,3 +3,4 @@ show
 edit
 clean
 code
+code everyday

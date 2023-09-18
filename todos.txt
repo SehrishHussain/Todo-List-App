@@ -4,3 +4,5 @@ edit
 clean
 code
 code everyday
+clean the tablecle
+make dinner
